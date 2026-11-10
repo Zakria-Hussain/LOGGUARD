@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/auth.log
+eval/progress.json
+.pytest_cache/
+tests_original/
+*.bak*
+.pytest_cache/
+*.md
+*.docx
+*.pdf
+proposal/
